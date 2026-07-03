@@ -1,7 +1,7 @@
 CAPOSAT Car Android WebView v1
 ================================
 
-هذا مشروع Android Studio لتطبيق سيارة CAPOSAT.
+هذا مشروع Android Studio لتطبيق CAPOSAT-CAR.
 التطبيق يفتح الرابط:
 https://caposat-car.pages.dev
 
@@ -22,7 +22,7 @@ Package name:
 com.caposat.car
 
 اسم التطبيق:
-سيارة CAPOSAT
+CAPOSAT-CAR
 
 صلاحيات التطبيق:
 - Internet
